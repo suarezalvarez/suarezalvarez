@@ -1,6 +1,6 @@
 ## Martín Suárez Álvarez
 
-Hi! I'm currently a PhD student at the (Villablanca lab)[https://villablancalab.com], working on data analysis from bulk, single-cell and spatial transcriptomic technologies. I'm interested in understanding how spatial information can improve our understanding on the intestinal immune system in health and disease, using human samples and murine models. Read more about me here: (suarezalvarez.github.io)[suarezalvarez.github.io]
+Hi! I'm currently a PhD student at the https://villablancalab.com, working on data analysis from bulk, single-cell and spatial transcriptomic technologies. I'm interested in understanding how spatial information can improve our understanding on the intestinal immune system in health and disease, using human samples and murine models. Read more about me here: [https://suarezalvarez.github.io
 
 <!--
 **suarezalvarez/suarezalvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
